@@ -8,7 +8,4 @@
 - 🔭 I’m currently working on completing my degree
 - 🌱 I’m currently learning I’m currently learning everything Digital forensics and examination techniques
 - 👯 I’m looking to collaborate on anything
-- 🤔 I’m looking for help with sharing resources
-- 💬 Ask me about how I can fit within your company
 - 📫 How to reach me: the links above!
--->
