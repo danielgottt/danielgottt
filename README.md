@@ -6,6 +6,6 @@
   
 
 - 🔭 I’m currently working on completing my degree
-- 🌱 I’m currently learning I’m currently learning everything Digital forensics and examination techniques
+- 🌱 I’m currently learning digital forensics and examination techniques
 - 👯 I’m looking to collaborate on anything
 - 📫 How to reach me: the links above!
