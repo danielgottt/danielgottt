@@ -2,7 +2,7 @@
   <img src="https://github.com/danielgottt/danielgottt/blob/main/vibePls.gif?raw=true">
 </p>
 
-## Just Vibing
+## Just Vibing <a href="https://www.netvibes.com/gottcyber1#news" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/rss.svg" height="30" width="40" /></a>
 
 <p align="left">
 <p>
